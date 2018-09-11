@@ -12,13 +12,13 @@ Kattis psudocode
 				3.2 Annars om Y är mindre än 0
 						4.2 Skriv "4"
 				3.3 Om Y är 0
-						4.3 Skriv "fel"
+						4.3 Skriv "error"
 		2.2 Annars om X är mindre än 0
 				3.4 Om Y är större än 0
 						4.4 Skriv "2"
 				3.5 Om Y är mindre än 0
 						4.5 Skriv "3"
 				3.6 Om Y är 0
-						4.6 Skriv "fel"
+						4.6 Skriv "error"
 		2.3 Om X är 0
-				3.7 Skriv ""
+				3.7 Skriv "error"
