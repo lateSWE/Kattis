@@ -10,7 +10,7 @@ Kattis psudocode
 				3.1 Om Y är större än 0
 						4.1 Skriv "1"
 				3.2 Annars om Y är mindre än 0
-										4.2 Skriv "4"
+						4.2 Skriv "4"
 				3.3 Om Y är 0
 						4.3 Skriv ""
 		2.2 Annars om X är mindre än 0
